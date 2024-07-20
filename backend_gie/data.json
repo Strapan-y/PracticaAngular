@@ -1,0 +1,92 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "publicacion": 1949,
+      "resumen": "Una novela que presenta una imagen aterradora de una sociedad futura."
+    },
+    {
+      "id": 3,
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "genero": "Romance",
+      "publicacion": 1813,
+      "resumen": "Una novela romántica que traza el desarrollo emocional de la protagonista Elizabeth Bennet."
+    },
+    {
+      "id": 4,
+      "titulo": "El gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "genero": "Tragedia",
+      "publicacion": 1925,
+      "resumen": "Una novela sobre el sueño americano y la caída de aquellos que intentan alcanzar sus metas ilusorias."
+    },
+    {
+      "id": 5,
+      "titulo": "Moby-Dick",
+      "autor": "Herman Melville",
+      "genero": "Aventura",
+      "publicacion": 1851,
+      "resumen": "Una novela sobre el viaje del barco ballenero Pequod."
+    },
+    {
+      "id": 6,
+      "titulo": "Cien  de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "publicacion": 1967,
+      "resumen": "La historia épica de la familia Buendía en el pueblo ficticio de Macondo."
+    },
+    {
+      "id": 7,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "genero": "Aventura",
+      "publicacion": 1605,
+      "resumen": "Las aventuras y desventuras del caballero Don Quijote y su fiel escudero Sancho Panza."
+    },
+    {
+      "id": 8,
+      "titulo": "Crimen y castigo",
+      "autor": "Fiódor Dostoyevski",
+      "genero": "Ficción psicológica",
+      "publicacion": 1866,
+      "resumen": "La lucha interna de un joven estudiante que comete un asesinato."
+    },
+    {
+      "id": 9,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "genero": "Épico",
+      "publicacion": "c. siglo VIII a.C.",
+      "resumen": "La épica aventura de Odiseo en su largo viaje de regreso a casa tras la guerra de Troya."
+    },
+    {
+      "id": 10,
+      "titulo": "El señor de los anillos",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasía",
+      "publicacion": 1954,
+      "resumen": "La lucha épica por destruir el Anillo Único y derrotar al malvado Sauron."
+    },
+    {
+      "titulo": "Andrea 21",
+      "autor": "yul",
+      "genero": "Comedia",
+      "publicacion": "2024-06-19",
+      "resumen": "tuu",
+      "id": 11
+    },
+    {
+      "titulo": "jul",
+      "autor": "mm",
+      "genero": "Accion",
+      "publicacion": "2024-06-19",
+      "resumen": "mm",
+      "id": 12
+    }
+  ]
+}
